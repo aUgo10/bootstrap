@@ -19,9 +19,13 @@
     font-style: italic;
 }
 
-/*Media align styling*/
+/*Card align styling*/
 
-.media {
+.card {
+    background-color: slategray;
+}
+
+.card-body {
     background-color: silver;
     border-style: groove;
     border-color: slategray;
@@ -45,3 +49,15 @@ p {
     
 }
 
+.card-title {
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(39, 4, 39)
+
+}
+
+.photo {
+    border-color: black;
+    border-style: groove;
+    border-width: 3px;
+}
