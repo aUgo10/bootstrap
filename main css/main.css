@@ -1,10 +1,10 @@
 /*Jumbotron styling*/
 .jumbotron {
-    background-color: rgb(39, 4, 39); 
+    background-color: rgb(39, 4, 39)
 }
 
 .display-4 {
-    font-size: 60px;
+    font-size: 55px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: silver;
     text-align: center;
@@ -12,24 +12,11 @@
 }
 
 .lead {
-    font-size: 45px;
+    font-size: 35px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: silver;
     text-align: center;
     font-style: italic;
-}
-
-/*Card align styling*/
-
-.card {
-    background-color: slategray;
-}
-
-.card-body {
-    background-color: silver;
-    border-style: groove;
-    border-color: slategray;
-    border-width: 15px;
 }
 
 .mt-0 {
@@ -49,12 +36,7 @@ p {
     
 }
 
-.card-title {
-    font-size: 30px;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    color: rgb(39, 4, 39)
 
-}
 
 .photo {
     border-color: black;
